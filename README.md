@@ -1,2 +1,2 @@
-# sc_302_documentacion
+# Estructura de datos
 Laboratorio Github
